@@ -1,3 +1,5 @@
+#Solution of Question 3
+#function getMaxLength return number of maximum consecutive  one’s
 def getMaxLength(arr, n):
     count = 0 
     res = 0
