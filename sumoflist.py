@@ -1,3 +1,4 @@
+#sum function return sum of number in list
 def sum(arr):
 	sum=0
 	for i in range((len(arr))):
