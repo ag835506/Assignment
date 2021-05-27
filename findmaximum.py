@@ -1,3 +1,4 @@
+#Solution of question 2
 def findMaximum(dict):
     newDict={}
     x=list(dict.values())
@@ -6,8 +7,7 @@ def findMaximum(dict):
     newDict[key]=dict[key]
     return newDict
     
-    
-    return maximum
+#Initialize Dictionary
 dict={'a':1,'b':2}
 res=findMaximum(dict)
 print(res)
